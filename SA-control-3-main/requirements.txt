@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn[standard]
+python-multipart
+pyjwt
+bcrypt
+python-dotenv
+slowapi
